@@ -1,0 +1,11 @@
+C:\Users\cjewell\source\repos\HondaDisplay\HondaDisplay\bin\Debug\HondaDisplay.exe.config
+C:\Users\cjewell\source\repos\HondaDisplay\HondaDisplay\bin\Debug\HondaDisplay.exe
+C:\Users\cjewell\source\repos\HondaDisplay\HondaDisplay\bin\Debug\HondaDisplay.pdb
+C:\Users\cjewell\source\repos\HondaDisplay\HondaDisplay\obj\Debug\HondaDisplay.csprojAssemblyReference.cache
+C:\Users\cjewell\source\repos\HondaDisplay\HondaDisplay\obj\Debug\HondaDisplay.Form1.resources
+C:\Users\cjewell\source\repos\HondaDisplay\HondaDisplay\obj\Debug\HondaDisplay.Properties.Resources.resources
+C:\Users\cjewell\source\repos\HondaDisplay\HondaDisplay\obj\Debug\HondaDisplay.csproj.GenerateResource.cache
+C:\Users\cjewell\source\repos\HondaDisplay\HondaDisplay\obj\Debug\HondaDisplay.csproj.CoreCompileInputs.cache
+C:\Users\cjewell\source\repos\HondaDisplay\HondaDisplay\obj\Debug\HondaDisplay.exe
+C:\Users\cjewell\source\repos\HondaDisplay\HondaDisplay\obj\Debug\HondaDisplay.pdb
+C:\Users\cjewell\source\repos\HondaDisplay\HondaDisplay\obj\Debug\HondaDisplay.Form2.resources
